@@ -1,0 +1,5 @@
+torch>=2.1
+torchsde>=0.2.5
+numpy>=1.23
+scipy>=1.10
+tqdm>=4.66

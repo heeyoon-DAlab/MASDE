@@ -1,0 +1,18 @@
+{
+  "val": {
+    "MAE": 11.268021656506136,
+    "RMSE": 87.62461384719559,
+    "cov_90": null,
+    "cov_95": null,
+    "CRPS": null,
+    "sharpness": null
+  },
+  "test": {
+    "MAE": 10.897221183886053,
+    "RMSE": 82.72823217110546,
+    "cov_90": null,
+    "cov_95": null,
+    "CRPS": null,
+    "sharpness": null
+  }
+}
